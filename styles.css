@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(247, 246, 240);
+}
+
+h1 {
+    color: brown;
+    margin-left: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 300%;
+
+}
+h3 {
+    color: blueviolet;
+    text-align: center;
+}
+p {
+    border: 5px solid black;
+    padding: 30px;
+    margin: 40px;
+    color: rgb(0, 255, 21);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 160%;
+}
+
+.flex-container {
+    display: flex;
+    border: 1px solid rgb(211, 12, 46);
+    border-radius: 10px;
+}
+
+.flex-item{
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 100px;
+    font-size: 30px;
+    color: rgb(14, 13, 13);
+
+}
+.box-1{
+background-color: blue;
+
+
+}
+.box-2{
+background-color: blueviolet;
+
+}
+.box-3{
+background-color: yellow;
+
+}
+.box-4{
+background-color: rgb(59, 209, 91);
+}
+.box-5{
+    background-color: brown;
+}
+.box-6{
+    background-color: blanchedalmond;
+}
